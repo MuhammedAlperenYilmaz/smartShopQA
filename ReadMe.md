@@ -47,9 +47,8 @@ export API_TOKEN=your_api_token_if_needed
 ## How to Run Tests
 
  ### Clone this repository:
-- git clone https://github.com/muhammedalperenyilmaz/ecommerce-test-automation-suite
-- cd ecommerce-ui-automation
-
+- git clone https://github.com/MuhammedAlperenYilmaz/smartShopQA
+- cd smartShopQA
 ### Set environment variables for your credentials.
 
 ### Run tests with Maven (runs all scenarios in parallel on browsers defined in the feature file):
